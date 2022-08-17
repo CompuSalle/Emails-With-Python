@@ -5,5 +5,5 @@
 -----------
 
 
-**Please use python3.**
+**Please use python3**
 
