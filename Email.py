@@ -8,7 +8,7 @@ def email_function(subject, body, to):
     msg.set_content(body)
     msg['subject'] = subject
     msg['to'] = to
-    user = 'YourEmail@gmail.com'
+    user = 'yourMail@gmail.com'
     msg['From'] = user
     password = 'YourPassword'
     server = smtplib.SMTP("smtp.gmail.com",587)
