@@ -19,7 +19,7 @@ def email_function(subject, body, to):
 
 
 print("[+] Sending")
-email_function('Spam Email', 'This is a sapm email', 'Pytohntutorial.test@gmail.com')
+email_function('Spam Email', 'This is a sapm email', 'yourMail@gmail.com')
 print(f'[+] Email has been send') 
 
 
